@@ -1,0 +1,123 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg" group-title="Canales Bolivianos",BOLIVIA TV 7.1 HD
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg" group-title="Canales Bolivianos",BOLIVIA TV 7.2 HD
+https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/chunklist_w1791536562.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0cS01gg/TVU-LP-HD.jpg" group-title="Canales Bolivianos",TVU LP HD
+https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/chunklist_w1311356096.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pfrCPht/SEO-TV-FHD.jpg" group-title="Canales Bolivianos",SEO TV HD
+https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LgDJb8R/SEO-KIDS-TV.jpg" group-title="Canales Bolivianos",SEO TV KIDS HD
+https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W23sBB7/RENUEVA-DIGITAL-FHD.jpg" group-title="Canales Bolivianos",RENUEVA DIGITAL HD
+https://ca2.inka.net.pe/renuevatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DQQVzcS/XTO-HD.jpg" group-title="Canales Bolivianos",XTO HD
+http://136.243.3.70:1935/XtoTv/XtoTv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfw7Vjf/RED-ADEVENIR.jpg" group-title="Canales Bolivianos",RED ADEVENIR HD
+https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w497868593.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wJCR9mb/TV-OFF-HD-EL-ALTO.jpg" group-title="Canales Bolivianos",TV OFF HD
+https://videohd.sistemareal.com:3290/live/tvoffhdlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XkWwQH5/ABYA-YALA-HD.jpg" group-title="Canales Bolivianos",ABYA YALA TV HD
+https://5fc584f3f19c9.streamlock.net/televisionhd/videotelevisionhd/chunklist_w943312042.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vv2qgyY/btv.jpg" tvg-group="BOLIVIA", BOLIVIA TV
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FJJvtrB/bolivision.jpg" tvg-group="BOLIVIA", BOLIVISION
+https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fvvi1-1.fna.fbcdn.net/v/t39.30808-1/242730123_4557063677674301_218989420846466365_n.png?stp=dst-png_p200x200&_nc_cat=107&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=gHRBkNyyTY0AX-6RN6b&_nc_ht=scontent.fvvi1-1.fna&edm=AKsJ254EAAAA&oh=00_AfD4jsS42HyIUAkAKBx68QR9ZYSvokKvjjuauK7sLy-vXg&oe=63B62BA3" tvg-group="BOLIVIA", PAT
+https://master.tucableip.com/pat/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/68wjssL/rtp.jpg" tvg-group="BOLIVIA", RTPxaf           
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" tvg-group="BOLIVIA", UNITEL
+https://www.dailymotion.com/video/x7vsezg
+
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Uno_%28canal_de_televisi%C3%B3n%29#/media/Archivo:Uno_logo.svg" tvg-group="BOLIVIA", RED UNO
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLouxaVkblmnca1ZUl-mE1LXTv4b2DOn3RQX-C6ZAU72b)/dm/3/x825whp/d/live-1.m3u8#cell=lnyc
+
+#EXTINF:-1  tvg-logo="https://www.oxigeno.bo/sites/default/files/styles/standar_640x480/public/field/image/atb-bolivia-en-vivo.gif?itok=4_e-Ehfa" group-title="BOLIVIA",ATB
+http://186.121.206.197/live/daniel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b2YH4Wk/tvu.jpg" tvg-group="BOLIVIA", TVU
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fvvi1-1.fna.fbcdn.net/v/t39.30808-1/311580973_548007157327254_8255830126900212697_n.jpg?stp=dst-jpg_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=Mm6xnj8EkVsAX9K5eaz&_nc_ht=scontent.fvvi1-1.fna&edm=AKsJ254EAAAA&oh=00_AfATfVHFt-IU7AEXFP7Rijj2GX_NKEqYi1PkBx3u19o3Pg&oe=63B5AFD2" tvg-group="INFANTILES", CLAN           
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-logo="https://scontent.fvvi1-2.fna.fbcdn.net/v/t39.30808-1/277571578_10166289889615381_6678346244449318570_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=kulAKMsIUrYAX_XUmF1&_nc_ht=scontent.fvvi1-2.fna&edm=AKsJ254EAAAA&oh=00_AfDWrb4-KUrZS02nmxnUQesyVDktWJCAzlkpVVU931TNZQ&oe=63B4D24B" tvg-group="INFANTILES", POCOYO
+https://youtu.be/qiARW8UdYm0
+#EXTINF:-1 tvg-logo="https://scontent.fvvi1-1.fna.fbcdn.net/v/t1.18169-1/20258205_10155715951689653_593242875521106439_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=-uNWyihBimsAX_c1pbX&_nc_ht=scontent.fvvi1-1.fna&edm=AKsJ254EAAAA&oh=00_AfC0XHeQ0c_KPJwyjZTDxEy9nbD2qc82zK-8mA9tVyP83g&oe=63D7F7F8" tvg-group="INFANTILES", cartoonnetwork
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/6miysb8.png",24/7 Canal de Noticias
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/kujnLsO.png",5TV Corrientes
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/sZ1yE4e.png",9 MULTIVISION HD
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",América Tucúman
+http://45.6.4.50:50601/America_Tucuman/video.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/Jo7p7yZ.png",Argentinísima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",BA Buenos Aires
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Tv-rionegrina-lu92-tv-canal-10-logo.png",Canal 10 Rio Negro
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/B2lKSvo.png",Canal 2 Telpin
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png",Canal 26
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Canal 3 La Pampa
+https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/07/Canal4-SanJuan-FDG.jpg",Canal 4 San Juan
+https://streamyes.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA",CANAL PROVINCIAL SAN MIGUEL
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/JbxMs5i.png",Chaco TV
+https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/chunklist_w1504807357.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/mZlUGBf.jpg",Chacra TV
+https://s8.stweb.tv/chacra/live/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/WxzqqFQ.jpg",Ciudad TV Chaco
+http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/75UgF.png",CPEtv
+https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/OgVCgbw.jpg",El Garage
+http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/Op0zdh5.jpg",Fenix TV
+https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/cd0hP5e.png",Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/pRbp0eZ.png",LA 90 FM
+http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/LHtd9oT.png",Multivision Argentina
+http://panel.dattalive.com:1935/8250/8250/.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/dKpLbh6.png",Music Top
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/dKpLbh6.png",Music Top
+https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/J7stpmb.png",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/daMqavf.jpg",RTN Neuquén
+http://media.neuquen.gov.ar/rtn/television/media.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Telefe Rosario
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
+#EXTINF:-1 group-title="ARGENTINA",Telemax
+https://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/byxXHzq.png",TeleNord Corrientes
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/FscV0as.png",Tierramia TV
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/1XgRcmd.png",TLX
+https://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
